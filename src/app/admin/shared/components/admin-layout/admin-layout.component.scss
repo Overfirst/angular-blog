@@ -1,0 +1,13 @@
+a {
+  &:hover {
+    color: navajowhite;
+  }
+
+  &.active  {
+    color: #333333;
+  }
+
+  &.active:hover {
+    color: #222111;
+  }
+}
